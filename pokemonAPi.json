@@ -1,126 +1,149 @@
-
 {
-  "success": true,
-  "data": [
-    {
-      "id": 1,
-      "nome": "Vulpix",
-      "img": "http://img.pokemondb.net/artwork/vulpix.jpg",
-      "decrizione": "è in grado di esercitare mosse di tipo Fuoco, ma naturalmente può apprendere anche qualche mossa di tipo Spettro come Stordiraggio.",
-      "prezzo": 290,
-      "categoria": "fuoco"
-    },
-    {
-      "id": 2,
-      "nome": "Ekans",
-      "img": "http://img.pokemondb.net/artwork/ekans.jpg",
-      "decrizione": "è in grado di slogare le loro fauci per ingoiare prede di grandi dimensioni, anche se questo rende i loro corpi piuttosto pesanti.",
-      "prezzo": 350,
-      "categoria": "veleno"
-    },
-    {
-      "id": 3,
-      "nome": "Poliwag",
-      "img": "http://img.pokemondb.net/artwork/poliwag.jpg",
-      "decrizione": "Può nuotare per lunghe distanze senza stancarsi ed è abile nello stile a rana e farfalla.",
-      "prezzo": 170,
-      "categoria": "acqua"
-    },
-    {
-      "id": 4,
-      "nome": "Grimer",
-      "img": "http://img.pokemondb.net/artwork/grimer.jpg",
-      "decrizione": "emette un odore molto pungente e disgustoso grazie ai miliardi di batteri maleodoranti contenuti nei fanghi di cui è composto.",
-      "prezzo": 210,
-      "categoria": "veleno"
-    },
-    {
-      "id": 5,
-      "nome": "Psyduck",
-      "img": "http://img.pokemondb.net/artwork/psyduck.jpg",
-      "decrizione": "possiede resistenze a tipi abbastanza usati in fase offensiva (Ghiaccio e Fuoco) e solo due debolezze (Erba ed Elettro)",
-      "prezzo": 370,
-      "categoria": "acqua"
-    },
-    {
-      "id": 6,
-      "nome": "Magmar",
-      "img": "http://img.pokemondb.net/artwork/magmar.jpg",
-      "decrizione": "è molto famoso per la sua capacità di sputare fiamme ed è riconosciuto come un potentissimo Pokémon.",
-      "prezzo": 130,
-      "categoria": "fuoco"
-    },
-    {
-      "id": 7,
-      "nome": "Shellder",
-      "img": "http://img.pokemondb.net/artwork/shellder.jpg",
-      "decrizione": "Vinyl craft beer chillwave jean shorts master cleanse lo-fi pug beard lumbersexual.",
-      "prezzo": 890,
-      "categoria": "acqua"
-    },
-    {
-      "id": 8,
-      "nome": "Ditto",
-      "img": "http://img.pokemondb.net/artwork/ditto.jpg",
-      "decrizione": "la sua corazza è praticamente indistruttibile in quanto più dura del diamante stesso, grazie alla quale può anche usare la mossa Tenaglia",
-      "prezzo": 345,
-      "categoria": "fuoco"
-    },
-    {
-      "id": 9,
-      "nome": "Jigglypuff",
-      "img": "http://img.pokemondb.net/artwork/jigglypuff.jpg",
-      "decrizione": "può emettere dei gas velenosi dalla bocca che, se inalati, addormentano la vittima per una settimana.",
-      "prezzo": 190,
-      "categoria": "veleno"
-    },
-    {
-      "id": 10,
-      "nome": "Magikarp",
-      "img": "http://img.pokemondb.net/artwork/magikarp.jpg",
-      "decrizione": "è in grado di utilizzare le grandi capacità di rimbalzo per sollevarsi tanto da poter saltare le montagne.",
-      "prezzo": 160,
-      "categoria": "acqua"
-    },
-    {
-      "id": 11,
-      "nome": "Venusaur",
-      "img": "http://img.pokemondb.net/artwork/venusaur.jpg",
-      "decrizione": "può ingerire oggetti di dimensioni spropositate e di materiali apparentemente non digeribili, sciogliendoli con l'acido del suo enorme stomaco.",
-      "prezzo": 140,
-      "categoria": "veleno"
-    },
-    {
-      "id": 12,
-      "nome": "Pikachu",
-      "img": "http://img.pokemondb.net/artwork/pikachu.jpg",
-      "decrizione": "fa degli escrementi molto caldi che gli antichi utilizzavano come scalda cuore se inseriti dentro ad un sacchetto.",
-      "prezzo": 550,
-      "categoria": "fuoco"
-    },
-    {
-      "id": 13,
-      "nome": "Nidoran",
-      "img": "http://img.pokemondb.net/artwork/nidoran-m.jpg",
-      "decrizione": "è un Pokémon molto grande, e grazie al suo peso riesce a schiacciare facilmente l'avversario.",
-      "prezzo": 110,
-      "categoria": "acqua"
-    },
-    {
-      "id": 14,
-      "nome": "Growlithe",
-      "img": "http://img.pokemondb.net/artwork/growlithe.jpg",
-      "decrizione": " usa il pungiglione che ha sul capo per avvelenare i suoi avversari.",
-      "prezzo": 500,
-      "categoria": "veleno"
-    },
-    {
-      "id": 15,
-      "nome": "Mewtwo",
-      "img": "http://img.pokemondb.net/artwork/mewtwo.jpg",
-      "decrizione": "quando tocca l'acqua, il suo colore e il motivo sul suo corpo si modificano permettendogli di mimetizzarsi con l'ambiente circostante.",
-      "prezzo": 220,
-      "categoria": "acqua"
-    }
-  ]
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "nome": "Vulpix",
+            "img": "http://img.pokemondb.net/artwork/vulpix.jpg",
+            "decrizione": "è in grado di esercitare mosse di tipo Fuoco, ma naturalmente può apprendere anche qualche mossa di tipo Spettro come Stordiraggio.",
+            "prezzo": 290,
+            "categoria": "fuoco"
+        },
+        {
+            "id": 2,
+            "nome": "Ekans",
+            "img": "http://img.pokemondb.net/artwork/ekans.jpg",
+            "decrizione": "è in grado di slogare le loro fauci per ingoiare prede di grandi dimensioni, anche se questo rende i loro corpi piuttosto pesanti.",
+            "prezzo": 350,
+            "categoria": "veleno"
+        },
+        {
+            "id": 3,
+            "nome": "Poliwag",
+            "img": "http://img.pokemondb.net/artwork/poliwag.jpg",
+            "decrizione": "Può nuotare per lunghe distanze senza stancarsi ed è abile nello stile a rana e farfalla.",
+            "prezzo": 170,
+            "categoria": "acqua"
+        },
+        {
+            "id": 4,
+            "nome": "Grimer",
+            "img": "http://img.pokemondb.net/artwork/grimer.jpg",
+            "decrizione": "emette un odore molto pungente e disgustoso grazie ai miliardi di batteri maleodoranti contenuti nei fanghi di cui è composto.",
+            "prezzo": 210,
+            "categoria": "veleno"
+        },
+        {
+            "id": 5,
+            "nome": "Psyduck",
+            "img": "http://img.pokemondb.net/artwork/psyduck.jpg",
+            "decrizione": "possiede resistenze a tipi abbastanza usati in fase offensiva (Ghiaccio e Fuoco) e solo due debolezze (Erba ed Elettro)",
+            "prezzo": 370,
+            "categoria": "acqua"
+        },
+        {
+            "id": 6,
+            "nome": "Magmar",
+            "img": "http://img.pokemondb.net/artwork/magmar.jpg",
+            "decrizione": "è molto famoso per la sua capacità di sputare fiamme ed è riconosciuto come un potentissimo Pokémon.",
+            "prezzo": 130,
+            "categoria": "fuoco"
+        },
+        {
+            "id": 7,
+            "nome": "Shellder",
+            "img": "http://img.pokemondb.net/artwork/shellder.jpg",
+            "decrizione": "Vinyl craft beer chillwave jean shorts master cleanse lo-fi pug beard lumbersexual.",
+            "prezzo": 890,
+            "categoria": "acqua"
+        },
+        {
+            "id": 8,
+            "nome": "Ditto",
+            "img": "http://img.pokemondb.net/artwork/ditto.jpg",
+            "decrizione": "la sua corazza è praticamente indistruttibile in quanto più dura del diamante stesso, grazie alla quale può anche usare la mossa Tenaglia",
+            "prezzo": 345,
+            "categoria": "fuoco"
+        },
+        {
+            "id": 9,
+            "nome": "Jigglypuff",
+            "img": "http://img.pokemondb.net/artwork/jigglypuff.jpg",
+            "decrizione": "può emettere dei gas velenosi dalla bocca che, se inalati, addormentano la vittima per una settimana.",
+            "prezzo": 190,
+            "categoria": "veleno"
+        },
+        {
+            "id": 10,
+            "nome": "Magikarp",
+            "img": "http://img.pokemondb.net/artwork/magikarp.jpg",
+            "decrizione": "è in grado di utilizzare le grandi capacità di rimbalzo per sollevarsi tanto da poter saltare le montagne.",
+            "prezzo": 160,
+            "categoria": "acqua"
+        },
+        {
+            "id": 11,
+            "nome": "Venusaur",
+            "img": "http://img.pokemondb.net/artwork/venusaur.jpg",
+            "decrizione": "può ingerire oggetti di dimensioni spropositate e di materiali apparentemente non digeribili, sciogliendoli con l'acido del suo enorme stomaco.",
+            "prezzo": 140,
+            "categoria": "veleno"
+        },
+        {
+            "id": 12,
+            "nome": "Pikachu",
+            "img": "http://img.pokemondb.net/artwork/pikachu.jpg",
+            "decrizione": "fa degli escrementi molto caldi che gli antichi utilizzavano come scalda cuore se inseriti dentro ad un sacchetto.",
+            "prezzo": 550,
+            "categoria": "fuoco"
+        },
+        {
+            "id": 13,
+            "nome": "Nidoran",
+            "img": "http://img.pokemondb.net/artwork/nidoran-m.jpg",
+            "decrizione": "è un Pokémon molto grande, e grazie al suo peso riesce a schiacciare facilmente l'avversario.",
+            "prezzo": 110,
+            "categoria": "acqua"
+        },
+        {
+            "id": 14,
+            "nome": "Growlithe",
+            "img": "http://img.pokemondb.net/artwork/growlithe.jpg",
+            "decrizione": " usa il pungiglione che ha sul capo per avvelenare i suoi avversari.",
+            "prezzo": 500,
+            "categoria": "veleno"
+        },
+        {
+            "id": 15,
+            "nome": "Mewtwo",
+            "img": "http://img.pokemondb.net/artwork/mewtwo.jpg",
+            "decrizione": "quando tocca l'acqua, il suo colore e il motivo sul suo corpo si modificano permettendogli di mimetizzarsi con l'ambiente circostante.",
+            "prezzo": 220,
+            "categoria": "acqua"
+        },
+        {
+            "id": 16,
+            "nome": "Numel",
+            "img": "http://img.pokemondb.net/artwork/wartortle.jpg",
+            "decrizione": " c'è una sola cosa che accomuna tutti i Pokémon Fuoco: la capacità di creare una propria combustione",
+            "prezzo": 290,
+            "categoria": "fuoco"
+        },
+        {
+            "id": 17,
+            "nome": "Squirtle",
+            "img": "http://img.pokemondb.net/artwork/squirtle.jpg",
+            "decrizione": " Pokemon, che amano l'acqua, hanno buone caratteristiche rispetto alle loro abilità di combattimento e sono pronti a combattere praticamente qualsiasi tipo di gioco",
+            "prezzo": 350,
+            "categoria": "acqua"
+        },
+        {
+            "id": 18,
+            "nome": "Venomoth",
+            "img": "http://img.pokemondb.net/artwork/venomoth.jpg",
+            "decrizione": "i Pokémon di questo tipo sono immuni all'avvelenamento, e quindi più difficili da sconfiggere tramite danni indiretti.",
+            "prezzo": 130,
+            "categoria": "veleno"
+        }
+    ]
 }
