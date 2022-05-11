@@ -121,6 +121,35 @@
       "decrizione": "quando tocca l'acqua, il suo colore e il motivo sul suo corpo si modificano permettendogli di mimetizzarsi con l'ambiente circostante.",
       "prezzo": 220,
       "categoria": "acqua"
-    }
+    },
+     {
+    id: 16,
+    nome: "Numel",
+    img:
+      "http://img.pokemondb.net/artwork/wartortle.jpg",
+    decrizione:
+      " c'è una sola cosa che accomuna tutti i Pokémon Fuoco: la capacità di creare una propria combustione",
+    prezzo: 290,
+    categoria: "fuoco",
+  },
+  {
+    id: 17,
+    nome: "Squirtle",
+    img:
+    "http://img.pokemondb.net/artwork/squirtle.jpg",
+    decrizione: " Pokemon, che amano l'acqua, hanno buone caratteristiche rispetto alle loro abilità di combattimento e sono pronti a combattere praticamente qualsiasi tipo di gioco",
+    prezzo: 350,
+    categoria: "acqua",
+  },
+  {
+    id: 18,
+    nome: "Venomoth",
+    img:
+      "http://img.pokemondb.net/artwork/venomoth.jpg",
+    decrizione:
+      "i Pokémon di questo tipo sono immuni all'avvelenamento, e quindi più difficili da sconfiggere tramite danni indiretti.",
+    prezzo: 130,
+    categoria: "veleno",
+  }
   ]
 }
